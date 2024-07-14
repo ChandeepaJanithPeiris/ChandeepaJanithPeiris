@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Introduction
+Hello! I am an electronics and telecommunications engineering student at the University of Moratwa
 <!--
 **ChandeepaJanithPeiris/ChandeepaJanithPeiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
