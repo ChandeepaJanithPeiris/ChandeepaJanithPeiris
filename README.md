@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I am an electronics and telecommunications engineering student at the University of Moratuwa, Sri Lanka. My interests include Machine Learning, Digital Systems Design, Embedded Systems, and Telecommunications.
+Hello! I am an electronics and telecommunications engineering student at the University of Moratuwa, Sri Lanka. I have deep interests specifically in  Machine Learning, Digital Systems Design, Digital Signal Processing, Embedded Systems, and Telecommunications.
 
 ## Skills
 
@@ -13,15 +13,11 @@ Hello! I am an electronics and telecommunications engineering student at the Uni
 - SystemVerilog
 
 ### Software Tools
--Solidworks 
-
--Altium
-
--Vivado 
-
--Intel Quatus Prime 
-
--MATLAB 
+- Solidworks 
+- Altium
+- Vivado Design Suite
+- Intel Quatus Prime 
+- MATLAB 
 
 
 
